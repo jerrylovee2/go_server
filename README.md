@@ -1,12 +1,11 @@
-Simple Go Web Server Example
-This is a basic Go web server example that demonstrates handling HTTP requests, serving static files, and parsing form data.
+# Simple Go Web Server Example
 
-Features:
-Static File Serving: The server serves static files from the ./static directory.
-Form Handling: It handles POST requests to /form, parsing form data (name and address).
-Hello Handler: Responds with "Hello!" to GET requests to /hello.
-Usage:
-Clone the Repository:
+## Features:
+- **Static File Serving:** The server serves static files from the `./static` directory.
+- **Form Handling:** It handles POST requests to `/form`, parsing form data (`name` and `address`).
+- **Hello Handler:** Responds with "Hello!" to GET requests to `/hello`.
+
+## Usage:
 
 bash
 Copy code
